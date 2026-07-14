@@ -31,7 +31,7 @@ export const projects: Project[] = [
   },
   {
     title: "golancer",
-    description: "A production-oriented Layer 7 load balancer and reverse proxy written in Go.",
+    description: "A Layer 7 load balancer and reverse proxy written in Go.",
     stack: ["Go"],
     repo: "https://github.com/jaimetsx/golancer",
     year: "2026",
