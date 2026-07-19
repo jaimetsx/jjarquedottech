@@ -29,11 +29,4 @@ export const projects: Project[] = [
     repo: "https://github.com/jaimetsx/GitPeekr",
     year: "2026",
   },
-  {
-    title: "golancer",
-    description: "A Layer 7 load balancer and reverse proxy written in Go.",
-    stack: ["Go"],
-    repo: "https://github.com/jaimetsx/golancer",
-    year: "2026",
-  },
 ];
